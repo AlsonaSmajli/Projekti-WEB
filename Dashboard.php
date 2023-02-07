@@ -4,11 +4,9 @@ require_once 'MenuController.php';
 <style>
 
 .naav{
-   
     justify-content: space-around;
     min-height: 10vh;
     position:sticky;    
-    
 }
 .nav-links{
     display: flex;
@@ -28,17 +26,16 @@ require_once 'MenuController.php';
     padding: 25px;
     transition: background-color 2s;
 }
-
-
 .nav-links a:hover{
     background-color:rgb(65, 87, 65) ;
     color: white;
 }
 </style>
- <div class="naav">
-<ul class="nav-links">
-            <li><a href="manageUsers.php">ManageUsers</a></li>
-            <li><a href="manageEmails.php">ManageEmails</a></li>
-            <li><a href="blogManage.php">ManageBlog</a></li>
-        </ul>       
-        </div>
+
+<div class="naav">
+    <ul class="nav-links">
+        <li><a href="manageUsers.php">ManageUsers</a></li>
+        <li><a href="manageEmails.php">ManageEmails</a></li>
+        <li><a href="blogManage.php">ManageBlog</a></li>
+    </ul>       
+</div>
