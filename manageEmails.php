@@ -66,7 +66,7 @@ require_once 'EmailController.php';
     <table class="content-table">
         <thead>
             <tr>
-              <th>name</th>
+              <th>Name</th>
               <th>Subject</th>
               <th>Email</th>
               <th>Message</th>

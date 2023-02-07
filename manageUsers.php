@@ -66,7 +66,7 @@ require_once 'MenuController.php';
     <table class="content-table">
         <thead>
             <tr>
-              <th>name</th>
+              <th>Name</th>
               <th>Email</th>
               <th>Password</th>
               <th>Usertype</th>

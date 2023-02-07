@@ -11,9 +11,9 @@
     
 
 <nav>
-        <div class="logo">
+    <div class="logo">
             
-           <div class="titte"> <h4>H A L T therapy <script src="https://cdn.lordicon.com/libs/mssddfmo/lord-icon-2.1.0.js"></script>
+       <div class="titte"> <h4>H A L T therapy <script src="https://cdn.lordicon.com/libs/mssddfmo/lord-icon-2.1.0.js"></script>
             <lord-icon
                 src="https://cdn.lordicon.com/pithnlch.json"
                 trigger="loop"
@@ -22,35 +22,29 @@
                 style="width:60px;height:60px">
             </lord-icon></h4></div>
            
-            <div class="hide">Hungry Angry Lonely Tired <i class="fas fa-smile"></i> </div>
+        <div class="hide">Hungry Angry Lonely Tired <i class="fas fa-smile"></i> </div>
             
-        </div>
-        
-        
-        <ul class="nav-links">
-            <li><a href="index.php">Home</a></li>
-            <li><a href="services.php">Services</a></li>
-            <li><a href="blog.php">Blog</a></li>
-            <li><a href="contactus.php">ContactUs</a></li>
-            <li><a href="logout.php" class="btn">OrLogOut</a></li>
-            
-           
-            
-
-        </ul>       
-        <div class="burger">
-          <div class="line1">
-
-          </div>
-          <div class="line2">
-
-          </div>
-          <div class="line3">
-
-         </div>
-
-        </div>
+    </div>
     
+    <ul class="nav-links">
+        <li><a href="index.php">Home</a></li>
+        <li><a href="services.php">Services</a></li>
+        <li><a href="blog.php">Blog</a></li>
+        <li><a href="contactus.php">ContactUs</a></li>
+        <li><a href="logout.php" class="btn">OrLogOut</a></li>
+    </ul> 
+    
+    <div class="burger">
+        <div class="line1">
+    </div>
+    
+    <div class="line2">
+    </div>
+     
+    <div class="line3">
+    </div>
+
+    </div>
     </nav>
     </body>
 </html>

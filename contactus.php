@@ -19,49 +19,49 @@
     <style>
     
     form {
-    width: 400px;
-    margin: 15vh auto 0 auto;
-    padding: 20px;
-    background-color: whitesmoke;
-    border-radius: 4px;
-    margin-top: 15px;
-    font-size: 12px;
-}
- button {
-    padding: 10px;
-    margin-top: 10px;
-    width: 100%;
-    color: white;
-    background-color: rgb(60, 92, 60);
-    border: none;
-    border-radius: 4px;
-}
-input {
-    border: 2px solid #f0f0f0;
-	border-radius: 4px;
-	display: block;
-	font-size: 12px;
-	padding: 10px;
-	width: 100%;
-}
-p{
-    padding:5px;
-    margin-top: 200px;
-    color: rgb(62, 90, 62);
-    font-size: 43px;
-    text-align: center;
-    font-weight:bold;    
-}
-textarea {
-   resize: none;
-   border: 2px solid #f0f0f0;
-   border-radius: 4px;
-   display: block;
-   font-size: 12px;
-   padding: 10px;
-   width: 100%;
-}
-</style>
+        width: 400px;
+        margin: 15vh auto 0 auto;
+        padding: 20px;
+        background-color: whitesmoke;
+        border-radius: 4px;
+        margin-top: 15px;
+        font-size: 12px;
+    }
+    button {
+        padding: 10px;
+        margin-top: 10px;
+        width: 100%;
+        color: white;
+        background-color: rgb(60, 92, 60);
+        border: none;
+        border-radius: 4px;
+    }
+    input {
+        border: 2px solid #f0f0f0;
+	    border-radius: 4px;
+	    display: block;
+	    font-size: 12px;
+	    padding: 10px;
+	    width: 100%;
+    }
+    p{
+        padding:5px;
+        margin-top: 200px;
+        color: rgb(62, 90, 62);
+        font-size: 43px;
+        text-align: center;
+        font-weight:bold;    
+    }
+    textarea {
+        resize: none;
+        border: 2px solid #f0f0f0;
+        border-radius: 4px;
+        display: block;
+        font-size: 12px;
+        padding: 10px;
+        width: 100%;
+    }
+    </style>
 </head>
 <body>
     
@@ -76,10 +76,5 @@ textarea {
             <button type="submit" name="submit">SEND MAIL</button>
         </form>
     </main>
-
-    
-
-    
-
 </body>
 </html>
