@@ -91,22 +91,22 @@
    <div class="our_blog">
 
     <div class="blog_1">
-        <img src="img/morning.jpg" alt="">
+        <img src="morning.jpg" alt="">
         <a href="https://www.throughthephases.com/productive-morning-routine/"><p>Morning Routine to Make You Happy And Productive All Day</p></a>
     </div>
 
     <div class="blog_2">
-        <img src="img/happy.jpg" alt="">
+        <img src="happy.jpg" alt="">
        <a href="https://www.everydayhealth.com/self-care/start-a-self-care-routine/#:~:text=A%205-Step%20Approach%20for%20Creating%20%28and%20Getting%20Into%29,and%20tweak%20your%20approach%20as%20you%20go.%20"><p>Mental Health Day Off</p></a>
     </div>
 
     <div class="blog_3">
-        <img src="img/smile.jpg" alt="">
+        <img src="smile.jpg" alt="">
         <a href="https://declutterthemind.com/blog/anxiety-exercises/"><p>Anxiety Exercises to Help You Relax</p></a>
     </div>
 
     <div class="blog_4">
-        <img src="img/meditation.jpg" alt="">
+        <img src="meditation.jpg" alt="">
         <a href="https://www.headspace.com/meditation/meditation-for-beginners"><p>Simple Meditation for Beginners</p></a>
     </div>
 
